@@ -6,5 +6,5 @@ int main()
     int a,b;
     cin>>a>>b;
     cout<<"Sum A and B: "<<(a+b)<<endl;
-
+    cout<<"Raznost A and B: "<<(a-b)<<endl;
 }
