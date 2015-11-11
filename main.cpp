@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+// Example programm
 int main()
 {
     cout<<"Input A and B"<<endl;
